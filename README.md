@@ -22,7 +22,7 @@
 [![](https://visitcount.itsvg.in/api?id=AlxxFlex&icon=0&color=1)](https://visitcount.itsvg.in)
 
   <!-- Puedes incluir también tus badges o stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&theme=aura_dark&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlxxFlex&theme=aura_dark&hide_border=true" alt="GitHub Stats">
 
 </div>
 
