@@ -1,4 +1,12 @@
-# 💫 About Me:
+<div align="center">
+
+  <!-- Imagen centrada -->
+  <img src="https://c.wallhere.com/photos/41/75/Satoru_Gojo_Jujutsu_Kaisen_street_night_anime_Japan-2254320.jpg!d" alt="Descripción de la imagen" width="800">
+
+  <!-- Títulos o cualquier otro contenido también se centrará -->
+  <h1>Mi Perfil</h1>
+  <p>Bienvenido a mi GitHub</p>
+
 -Trabajo en equipo y colaboración efectiva.<br>-Liderazgo y capacidad para coordinar equipos.<br>-Aprendizaje rápido y adaptación a nuevas tecnologías.<br>-Alta capacidad de análisis y comprensión rápida de problemas.<br>-Organización y gestión del tiempo
 
 
@@ -14,5 +22,11 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AlxxFlex&icon=0&color=1)](https://visitcount.itsvg.in)
+
+  <!-- Puedes incluir también tus badges o stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&theme=aura_dark&hide_border=true" alt="GitHub Stats">
+
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
