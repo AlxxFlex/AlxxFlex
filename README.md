@@ -4,10 +4,8 @@
   <img src="https://wallpapers.com/images/hd/gojo-satoru-and-night-scene-k9iiafgr6qy0e0ej.jpg" alt="Descripción de la imagen" width="800">
 
   <!-- Títulos o cualquier otro contenido también se centrará -->
-  <h1>Mi Perfil</h1>
-  <p>Bienvenido a mi GitHub</p>
+  <h1>Bienvenido a mi GitHub</h1>
 
--Trabajo en equipo y colaboración efectiva.<br>-Liderazgo y capacidad para coordinar equipos.<br>-Aprendizaje rápido y adaptación a nuevas tecnologías.<br>-Alta capacidad de análisis y comprensión rápida de problemas.<br>-Organización y gestión del tiempo
 
 
 # 💻 Tech Stack:
