@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Imagen centrada -->
-  <img src="https://c.wallhere.com/photos/41/75/Satoru_Gojo_Jujutsu_Kaisen_street_night_anime_Japan-2254320.jpg!d" alt="Descripción de la imagen" width="800">
+  <img src="https://wallpapers.com/images/hd/gojo-satoru-and-night-scene-k9iiafgr6qy0e0ej.jpg" alt="Descripción de la imagen" width="800">
 
   <!-- Títulos o cualquier otro contenido también se centrará -->
   <h1>Mi Perfil</h1>
