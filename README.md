@@ -130,12 +130,6 @@ const aaron = {
 
 <div align="center">
   
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlxxFlex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5DADE2&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlxxFlex&custom_title=Contribution%20Graph&bg_color=0D1117&color=5DADE2&line=5DADE2&point=FFFFFF&area_color=1a73e8&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
