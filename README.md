@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Aaron%20Developer&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=300&section=header&text=Aaron%20Martinez&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Cloud+Architecture+Enthusiast;Database+Administrator;UI%2FUX+Designer;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=5DADE2&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Cloud+Architecture+Enthusiast;Database+Administrator;UI%2FUX+Designer;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 </div>
 
@@ -23,7 +23,7 @@
 ### 🚀 About Me
 
 ```javascript
-const alex = {
+const aaron = {
     location: "Torreón, Coahuila, MX",
     code: ["JavaScript", "Python", "C#", "PHP", "TypeScript", "Swift"],
     architecture: ["Microservices", "Event-driven", "Serverless"],
@@ -129,20 +129,20 @@ const alex = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlxxFlex&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=AlxxFlex&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlxxFlex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5DADE2&icon_color=5DADE2&text_color=FFFFFF" alt="GitHub Stats"/>
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=AlxxFlex&theme=tokyonight&hide_border=true&background=0D1117&stroke=5DADE2&ring=5DADE2&fire=5DADE2&currStreakLabel=5DADE2" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
   
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlxxFlex&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlxxFlex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5DADE2&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlxxFlex&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlxxFlex&custom_title=Contribution%20Graph&bg_color=0D1117&color=5DADE2&line=5DADE2&point=FFFFFF&area_color=1a73e8&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
@@ -152,7 +152,7 @@ const alex = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=AlxxFlex&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=AlxxFlex&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
@@ -162,14 +162,14 @@ const alex = {
 
 <div align="center">
 
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlxxFlex&theme=radical)
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlxxFlex&theme=tokyonight)
 
 </div>
 
 <div align="center">
   
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlxxFlex&theme=radical" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlxxFlex&theme=radical" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlxxFlex&theme=tokyonight" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlxxFlex&theme=tokyonight" alt="Most Commit Language" />
 
 </div>
 
@@ -180,32 +180,12 @@ const alex = {
 <div align="center">
 
 <a href="https://github.com/AlxxFlex/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlxxFlex&repo=project1&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlxxFlex&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
 <a href="https://github.com/AlxxFlex/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlxxFlex&repo=project2&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlxxFlex&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 🐍 Watch My Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/AlxxFlex/AlxxFlex/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -215,8 +195,8 @@ const alex = {
 
 ### 💬 Let's Connect and Build Something Amazing Together!
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=AlxxFlex&label=Profile%20Views&color=6&icon=5&pretty=true)
+![Visitor Count](https://visitcount.itsvg.in/api?id=AlxxFlex&label=Profile%20Views&color=12&icon=5&pretty=true)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%">
 
 </div>
