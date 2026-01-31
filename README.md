@@ -173,29 +173,10 @@ const aaron = {
 
 </div>
 
----
-
-## 🎯 Current Projects
-
-<div align="center">
-
-<a href="https://github.com/AlxxFlex/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlxxFlex&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-<a href="https://github.com/AlxxFlex/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlxxFlex&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-</div>
 
 ---
 
 <div align="center">
-
-### 💬 Let's Connect and Build Something Amazing Together!
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=AlxxFlex&label=Profile%20Views&color=12&icon=5&pretty=true)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%">
 
