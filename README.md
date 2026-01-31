@@ -127,12 +127,6 @@ const aaron = {
 
 ## 📊 Performance Metrics
 
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AlxxFlex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5DADE2&icon_color=5DADE2&text_color=FFFFFF" alt="GitHub Stats"/>
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=AlxxFlex&theme=tokyonight&hide_border=true&background=0D1117&stroke=5DADE2&ring=5DADE2&fire=5DADE2&currStreakLabel=5DADE2" alt="GitHub Streak"/>
-
-</div>
 
 <div align="center">
   
@@ -146,15 +140,6 @@ const aaron = {
 
 </div>
 
----
-
-## 🏆 Achievement Showcase
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=AlxxFlex&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
 
 ---
 
